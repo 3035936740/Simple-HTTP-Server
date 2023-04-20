@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libSQLitePP.a CMakeFiles/SQLitePP.dir/include/sqlite3pp.cpp.o CMakeFiles/SQLitePP.dir/include/sqlite3ppext.cpp.o
+/usr/bin/ranlib ../lib/libSQLitePP.a

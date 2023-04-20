@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.2)
+
+project(bcrypt)
+
+add_library(bcrypt src/bcrypt.cpp src/blowfish.cpp)
+target_include_directories(bcrypt PRIVATE src/)
+target_include_directories(bcrypt PUBLIC include/)
