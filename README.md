@@ -1,6 +1,5 @@
-# High Performance HTTP API
+# Simple HTTP API
 只能用于linux<br>
-一个高性能的HTTP API<br>
 需要有vcpkg<br>
 <b>还没做完</b>
 > GCC版本必须为11及以上!<br>
