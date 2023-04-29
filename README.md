@@ -1,7 +1,7 @@
 # Simple HTTP API
 只能用于linux<br>
 需要有vcpkg<br>
-<b>还没做完</b>
+<b>当做个人黑历史保存</b>
 > GCC版本必须为11及以上!<br>
 > CMake版本须为3.12及以上!<br>
 
